@@ -1,5 +1,8 @@
 
-
+Clone
+~~~git
+git clone https://github.com/GreaterWMS/GreaterWMS-Doc-EN.git
+~~~
 
 Install
 ~~~python
