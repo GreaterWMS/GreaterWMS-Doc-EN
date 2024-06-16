@@ -137,7 +137,7 @@ plugins:
 
 This configuration enables the plugin only during continuous integration (CI).
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ---
 

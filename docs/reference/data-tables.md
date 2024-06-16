@@ -10,7 +10,7 @@ like [sortable tables] can be achieved with a third-party library and some
 [additional JavaScript].
 
   [sortable tables]: #sortable-tables
-  [additional JavaScript]: ../customization.md#additional-javascript
+  [additional JavaScript]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-javascript
 
 ## Configuration
 

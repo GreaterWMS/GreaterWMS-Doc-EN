@@ -171,11 +171,11 @@ there's more space available, grids will render in items of 3 and more, e.g.
 when [hiding both sidebars].
 
   [mkdocs-material]: https://pypistats.org/packages/mkdocs-material
-  [pip]: ../getting-started.md#with-pip
-  [getting started]: ../getting-started.md
+  [pip]: ../../../GreaterWMS-Doc-CN/docs/getting-started.md#with-pip
+  [getting started]: ../../../GreaterWMS-Doc-CN/docs/getting-started.md
   [reference]: ../reference/index.md
-  [customization]: ../customization.md
-  [license]: ../license.md
+  [customization]: ../../../GreaterWMS-Doc-CN/docs/customization.md
+  [license]: ../../../GreaterWMS-Doc-CN/docs/license.md
   [GitHub]: https://github.com/squidfunk/mkdocs-material
   [hiding both sidebars]: ../setup/setting-up-navigation.md#hiding-the-sidebars
 

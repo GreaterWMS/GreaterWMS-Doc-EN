@@ -116,4 +116,4 @@ globally to be used as the site-wide regular or monospaced font:
     }
     ```
 
-  [additional style sheet]: ../customization.md#additional-css
+  [additional style sheet]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-css

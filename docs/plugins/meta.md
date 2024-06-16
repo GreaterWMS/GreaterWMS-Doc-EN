@@ -174,7 +174,7 @@ plugins:
       enabled: false
 ```
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ### Meta file
 

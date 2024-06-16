@@ -223,7 +223,7 @@ get all the information you need to get started:
   [Runtime and cancellation]: runtime-and-cancellation.md
   [Privacy]: privacy.md
   [License]: license.md
-  [Support]: ../support.md
+  [Support]: ../../../GreaterWMS-Doc-CN/docs/support.md
   [Getting started]: getting-started.md
   [Changelog]: ../changelog/index.md
   [Upgrade]: upgrade.md

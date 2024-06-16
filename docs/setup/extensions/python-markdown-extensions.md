@@ -86,7 +86,7 @@ See reference for usage:
   [Arithmatex documentation on KaTeX]: https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/#loading-katex
   [MathJax]: https://www.mathjax.org/
   [KaTeX]: https://github.com/Khan/KaTeX
-  [additional JavaScript]: ../../customization.md#additional-javascript
+  [additional JavaScript]: ../../../../GreaterWMS-Doc-CN/docs/customization.md#additional-javascript
   [instant loading]: ../setting-up-navigation.md#instant-loading
   [Using block syntax]: ../../reference/math.md#using-block-syntax
   [Using inline block syntax]: ../../reference/math.md#using-inline-block-syntax
@@ -469,7 +469,7 @@ See reference for usage:
   [pymdownx.superfences]: #superfences
   [pymdownx.inlinehilite]: #inlinehilite
   [Pygments]: https://pygments.org
-  [additional style sheet]: ../../customization.md#additional-css
+  [additional style sheet]: ../../../../GreaterWMS-Doc-CN/docs/customization.md#additional-css
   [Highlight.js]: https://highlightjs.org/
   [title]: ../../reference/code-blocks.md#adding-a-title
   [Adding line numbers]: ../../reference/code-blocks.md#adding-line-numbers

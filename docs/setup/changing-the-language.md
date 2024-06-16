@@ -203,6 +203,6 @@ adjust the ones you want to override:
       language: custom
     ```
 
-  [theme extension]: ../customization.md#extending-the-theme
+  [theme extension]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
   [translations]: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/partials/languages/
   [list of available languages]: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/partials/languages/

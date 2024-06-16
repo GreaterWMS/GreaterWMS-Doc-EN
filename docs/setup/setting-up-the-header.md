@@ -44,8 +44,8 @@ block][overriding blocks], which is empty by default:
 {% endblock %}
 ```
 
-  [extend the theme]: ../customization.md#extending-the-theme
-  [overriding blocks]: ../customization.md#overriding-blocks
+  [extend the theme]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
+  [overriding blocks]: ../../../GreaterWMS-Doc-CN/docs/customization.md#overriding-blocks
 
 #### Mark as read
 

@@ -191,7 +191,7 @@ For further information, see the [documentation].
   [tags]: setting-up-tags.md#built-in-tags-plugin
   [comment system]: adding-a-comment-system.md
   [necessary metadata]: https://guts.github.io/mkdocs-rss-plugin/configuration/#integration
-  [theme extension]: ../customization.md
+  [theme extension]: ../../../GreaterWMS-Doc-CN/docs/customization.md
   [documentation]: https://guts.github.io/mkdocs-rss-plugin/configuration/
 
 ### Blog only
@@ -292,7 +292,7 @@ automatically generated for you.
 
   [draft]: ../plugins/blog.md#drafts
   [This behavior can be changed]: ../plugins/blog.md#config.draft
-  [live preview server]: ../creating-your-site.md#previewing-as-you-write
+  [live preview server]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#previewing-as-you-write
 
 #### Adding an excerpt
 
@@ -702,7 +702,7 @@ The following templates are added by the [built-in blog plugin]:
 - [`blog.html`][blog.html] – Template for blog, archive and category index
 - [`blog-post.html`][blog-post.html] – Template for blog post
 
-  [theme extension]: ../customization.md#extending-the-theme
+  [theme extension]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
 
   [blog.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/blog.html
   [blog-post.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/blog-post.html

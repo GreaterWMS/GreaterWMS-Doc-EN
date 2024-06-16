@@ -186,7 +186,7 @@ template: custom.html
     template: custom.html
     ```
 
-  [theme extension]: ../customization.md#extending-the-theme
+  [theme extension]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
   [built-in meta plugin]: ../plugins/meta.md
 
 ## Customization
@@ -207,7 +207,7 @@ e.g. to add indexing policies for search engines via the `robots` property:
 {% endblock %}
 ```
 
-  [overriding blocks]: ../customization.md#overriding-blocks
+  [overriding blocks]: ../../../GreaterWMS-Doc-CN/docs/customization.md#overriding-blocks
 
 #### :material-check: on a single page
 

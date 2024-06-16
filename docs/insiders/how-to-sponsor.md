@@ -21,7 +21,7 @@ If you have additional questions, you can find detailed information about
   [runtime and cancellation]: runtime-and-cancellation.md
   [privacy]: privacy.md
   [license]: license.md
-  [support]: ../support.md
+  [support]: ../../../GreaterWMS-Doc-CN/docs/support.md
 
 ### Sponsoring tier
 
@@ -111,4 +111,4 @@ __Ready to become a sponsor?__
 If you still find yourself with more questions, feel free to [reach out to Kathi]
 via mail at sponsors@squidfunk.com for additional support.
 
-  [reach out to Kathi]: ../support.md/#sponsoring-support
+  [reach out to Kathi]: ../../../GreaterWMS-Doc-CN/docs/support.md/#sponsoring-support

@@ -125,8 +125,8 @@ extra:
 Make sure one alias matches the [default version], as this is where users are
 redirected to.
 
-  [theme extension]: ../customization.md#extending-the-theme
-  [overriding blocks]: ../customization.md#overriding-blocks
+  [theme extension]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
+  [overriding blocks]: ../../../GreaterWMS-Doc-CN/docs/customization.md#overriding-blocks
   [Version warning preview]: ../assets/screenshots/version-warning.png
   [default version]: #setting-a-default-version
 

@@ -84,7 +84,7 @@ plugins:
       enabled: false
 ```
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ---
 
@@ -107,7 +107,7 @@ This setting streamlines the process of creating and inspecting minimal
 reproductions, as it allows to quickly iterate on the reproduction without
 having to disable the plugin first.
 
-  [previewing your site]: ../creating-your-site.md#previewing-as-you-write
+  [previewing your site]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#previewing-as-you-write
 
 ### Archive
 

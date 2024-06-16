@@ -183,5 +183,5 @@ includes the `copyright` property set in `mkdocs.yml`.
 
   [copyright notice]: #copyright-notice
   [generator notice]: #generator-notice
-  [extend the theme]: ../customization.md#extending-the-theme
-  [overriding partials]: ../customization.md#overriding-partials
+  [extend the theme]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
+  [overriding partials]: ../../../GreaterWMS-Doc-CN/docs/customization.md#overriding-partials

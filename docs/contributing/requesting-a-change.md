@@ -29,7 +29,7 @@ your idea is a good fit for Material for MkDocs and matches the project's
 
 __Please do the following things before creating an issue.__
 
-  [philosophy]: ../philosophy.md
+  [philosophy]: ../../../GreaterWMS-Doc-CN/docs/philosophy.md
 
 ### It's not a bug, it's a feature
 
@@ -238,4 +238,4 @@ via [customization]. If you're unsure about how to do that or want to know if
 someone has already done it, feel free to get in touch with our community on
 the [discussion board].
 
-  [customization]: ../customization.md
+  [customization]: ../../../GreaterWMS-Doc-CN/docs/customization.md

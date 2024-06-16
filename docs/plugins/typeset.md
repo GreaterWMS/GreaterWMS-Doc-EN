@@ -33,7 +33,7 @@ and makes them available to be used in templates and plugins. The templates of
 Material for MkDocs use this information to render an enriched version of the
 navigation and table of contents.
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ### When to use it
 
@@ -86,4 +86,4 @@ plugins:
       enabled: false
 ```
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site

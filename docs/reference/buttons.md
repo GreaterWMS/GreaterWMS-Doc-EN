@@ -63,7 +63,7 @@ CSS class selectors.
 
 </div>
 
-  [landing page]: ../index.md
+  [landing page]: ../../../GreaterWMS-Doc-CN/docs/index.md
 
 ### Adding icon buttons
 

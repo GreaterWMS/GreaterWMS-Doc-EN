@@ -949,7 +949,7 @@ __Fixes__
 - [Added support for `mkdocs.yml` validation and auto-complete][validation]
 - Fixed errors in Latvian translations
 
-  [validation]: ../creating-your-site.md#minimal-configuration
+  [validation]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#minimal-configuration
 
 ### 8.1.8 <small>January 23, 2022</small> { id="8.1.8" }
 

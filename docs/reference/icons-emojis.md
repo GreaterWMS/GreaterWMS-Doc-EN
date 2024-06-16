@@ -154,7 +154,7 @@ After applying the customization, add the CSS class to the icon shortcode:
 
   [Attribute Lists]: ../setup/extensions/python-markdown.md#attribute-lists
   [inline styles]: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
-  [additional style sheet]: ../customization.md#additional-css
+  [additional style sheet]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-css
 
 #### with animations
 
@@ -235,5 +235,5 @@ reference any icon that's [bundled with the theme][icon search] with Jinja's
 
 This is exactly what Material for MkDocs does in its templates.
 
-  [extending the theme]: ../customization.md#extending-the-theme
+  [extending the theme]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
   [include]: https://jinja.palletsprojects.com/en/2.11.x/templates/#include

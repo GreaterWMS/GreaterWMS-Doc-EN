@@ -203,7 +203,7 @@ plugins:
       enabled: false
 ```
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ---
 
@@ -1416,7 +1416,7 @@ plugins:
       draft_on_serve: false
 ```
 
-  [previewing your site]: ../creating-your-site.md#previewing-as-you-write
+  [previewing your site]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#previewing-as-you-write
 
 ---
 

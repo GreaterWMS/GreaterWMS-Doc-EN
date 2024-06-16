@@ -50,6 +50,7 @@ theme:
 
 # Plugins
 plugins:
+  - offline
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
@@ -58,45 +59,6 @@ plugins:
       minify_css: true
       cache_safe: true
   - glightbox
-#  - i18n:
-#      default_language: en
-#      material_alternate: true
-#      languages:
-#        en:
-#          name: English
-#          build: true
-#        zh:
-#          name: 中文简体
-#          build: true
-#      nav_translations:
-#        zh:
-#          Home: 主页
-#          Guide: 指南
-#          Why GreaterWMS: 为什么选择我们
-#          Sponsors and Supporters: 赞助商和支持者
-#          Why Donate?: 为什么捐助很重要
-#          Please Don't Do That: 不要做这些
-#          Deploy: 部署文档
-#          Software Version Requirements: 软件版本要求
-#          Server Configuration Recommendations: 服务器要求
-#          Win10 X64: Win10 X64
-#          Centos 7 64-bit Deployment: Centos 7 部署
-#          Ubuntu20 X64: Ubuntu 20 部署
-#          Android Environment: 安卓环境搭建
-#          IOS Environment: IOS环境搭建
-#          Android Apk Signature: 安卓APK签名
-#          Supervisor Process Guarded: Supervisor守护进程
-#          Nginx Config: Nginx反向代理
-#          Electron APP: Electron构建
-#          Executive Summary: 命令集合
-#          Docker deployment: Docker部署
-#          Product: 产品线
-#          GreaterWMS: GreaterWMS
-#          DVadmin: DVadmin
-#          WCS: WCS
-#          Case: 成功案例
-#          Contact: 联系我们
-#          Contact US: 联系方式
 
 # Hooks
 hooks:
@@ -197,7 +159,6 @@ nav:
     - Android Apk Signature: android_apk_signature.md
     - Supervisor Process Guarded: supervisor_process_guarded.md
     - Nginx Config: nginx_config.md
-    - Electron APP: electron_app.md
     - Executive Summary: executive_summary.md
     - Docker deployment: docker_deployment.md
   - Product:

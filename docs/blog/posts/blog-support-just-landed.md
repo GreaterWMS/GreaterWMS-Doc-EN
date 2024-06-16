@@ -185,7 +185,7 @@ behavior and much more.
   [post slugs]: ../../plugins/blog.md#config.post_url_format
   [draft]: ../../plugins/blog.md#meta.draft
   [This behavior can be changed]: ../../plugins/blog.md#config.draft
-  [live preview server]: ../../creating-your-site.md#previewing-as-you-write
+  [live preview server]: ../../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#previewing-as-you-write
   [archive]: ../../plugins/blog.md#config.archive
   [category]: ../../plugins/blog.md#config.categories
   [Blog]: blog-support-just-landed/blog.png

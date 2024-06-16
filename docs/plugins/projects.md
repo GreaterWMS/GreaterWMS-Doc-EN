@@ -51,7 +51,7 @@ main project into several projects for a better editing experience.
 
 There are some [limitations], but we're working hard to remove them.
 
-  [previewing your site]: ../creating-your-site.md#previewing-as-you-write
+  [previewing your site]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#previewing-as-you-write
   [limitations]: #limitations
 
 ### When to use it
@@ -113,7 +113,7 @@ plugins:
 
 This configuration enables the plugin only during continuous integration (CI).
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ---
 

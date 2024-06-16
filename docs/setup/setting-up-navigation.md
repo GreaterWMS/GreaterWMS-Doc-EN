@@ -608,7 +608,7 @@ your custom event listener:
       - javascripts/shortcuts.js
     ```
 
-  [additional JavaScript]: ../customization.md#additional-javascript
+  [additional JavaScript]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-javascript
 
 ### Content area width
 
@@ -645,4 +645,4 @@ of CSS:
       - stylesheets/extra.css
     ```
 
-  [additional style sheet]: ../customization.md#additional-css
+  [additional style sheet]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-css

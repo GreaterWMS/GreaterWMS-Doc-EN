@@ -99,7 +99,7 @@ The following environments come with a preinstalled version of [Cairo Graphics]:
   [MSYS2]: https://www.msys2.org/
   [UCRT64]: https://www.msys2.org/docs/environments/
   [Docker image]: https://hub.docker.com/r/squidfunk/mkdocs-material/
-  [GitHub Actions]: ../../publishing-your-site.md#with-github-actions
+  [GitHub Actions]: ../../../../GreaterWMS-Doc-CN/docs/publishing-your-site.md#with-github-actions
 
 ### pngquant
 

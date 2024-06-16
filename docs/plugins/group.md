@@ -10,7 +10,7 @@ enable or disable them for specific environments with the use of
 [environment variables][mkdocs.env], e.g., to only enable a subset of
 plugins when [building your project] during continuous integration (CI).
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ## Objective
 
@@ -97,7 +97,7 @@ Now, when [building your project], you can enable a group by setting the
 CI=true mkdocs build
 ```
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
 
 ---
 

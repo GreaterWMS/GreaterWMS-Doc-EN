@@ -27,7 +27,7 @@ leveraging [`git sparse-checkout`][git sparse-checkout] within [GitHub Actions],
 check out time was brought down to 2 seconds.
 
   [git sparse-checkout]: https://git-scm.com/docs/git-sparse-checkout
-  [GitHub Actions]: ../../publishing-your-site.md#with-github-actions
+  [GitHub Actions]: ../../../../GreaterWMS-Doc-CN/docs/publishing-your-site.md#with-github-actions
   [git-revision-date-localized]: https://github.com/timvink/mkdocs-git-revision-date-localized-plugin
   [git-committers]: https://github.com/ojacques/mkdocs-git-committers-plugin-2
   [document contributors]: ../../setup/adding-a-git-repository.md#document-contributors

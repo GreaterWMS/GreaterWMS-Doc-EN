@@ -23,7 +23,7 @@ documentation, or new functionality you have developed.
 [bug report]: reporting-a-bug.md
 [documentation issue]: reporting-a-docs-issue.md
 [change request]: requesting-a-change.md
-[customization]: ../customization.md
+[customization]: ../../../GreaterWMS-Doc-CN/docs/customization.md
 
 ## Learning about pull requests
 
@@ -266,7 +266,7 @@ From this point onwards, please follow the [instructions for setting up the
 development environment]. They will take you through the process of setting up
 an environment in which you can make changes and review/test them.
 
-[instructions for setting up the development environment]: ../customization.md#environment-setup
+[instructions for setting up the development environment]: ../../../GreaterWMS-Doc-CN/docs/customization.md#environment-setup
 
 ### Making changes
 

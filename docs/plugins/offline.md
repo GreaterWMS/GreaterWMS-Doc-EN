@@ -40,7 +40,7 @@ documentation directly from the local file system.
 
 There are some [limitations].
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
   [Fetch API]: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
   [iframe-worker]: https://github.com/squidfunk/iframe-worker
   [limitations]: #limitations

@@ -502,4 +502,4 @@ After applying the customization, you can use the custom admonition type:
 </div>
 
   [custom icons]: https://github.com/squidfunk/mkdocs-material/tree/master/material/templates/.icons
-  [additional style sheet]: ../customization.md#additional-css
+  [additional style sheet]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-css

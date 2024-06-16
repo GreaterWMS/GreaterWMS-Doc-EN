@@ -334,5 +334,5 @@ Use [additional JavaScript] to query the result:
       - javascripts/consent.js
     ```
 
-  [additional JavaScript]: ../customization.md#additional-javascript
+  [additional JavaScript]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-javascript
   [changes the settings]: #change-cookie-settings

@@ -57,11 +57,11 @@ __Don't be shy to ask on our [discussion board] for help if you run into
 problems.__
 
   [latest version]: ../changelog/index.md
-  [upgrade guide]: ../upgrade.md
-  [Customizations]: ../customization.md
-  [additional CSS]: ../customization.md#additional-css
-  [JavaScript]: ../customization.md#additional-javascript
-  [theme extension]: ../customization.md#extending-the-theme
+  [upgrade guide]: ../../../GreaterWMS-Doc-CN/docs/upgrade.md
+  [Customizations]: ../../../GreaterWMS-Doc-CN/docs/customization.md
+  [additional CSS]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-css
+  [JavaScript]: ../../../GreaterWMS-Doc-CN/docs/customization.md#additional-javascript
+  [theme extension]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
   [theme.custom_dir]: https://www.mkdocs.org/user-guide/configuration/#custom_dir
   [hooks]: https://www.mkdocs.org/user-guide/configuration/#hooks
   [extra_css]: https://www.mkdocs.org/user-guide/configuration/#extra_css

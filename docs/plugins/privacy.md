@@ -92,7 +92,7 @@ pipelines tailored to your project:
 </div>
 
   [Google Fonts]: ../setup/changing-the-fonts.md
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
   [optimize]: optimize.md
   [offline]: offline.md
   [offline-capable documentation]: ../setup/building-for-offline-usage.md

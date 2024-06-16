@@ -15,7 +15,7 @@ search engines.
 <!-- md:sponsors --> __Sponsors only__ – this plugin is currently reserved to
 [our awesome sponsors].
 
-  [building your project]: ../creating-your-site.md#building-your-site
+  [building your project]: ../../../GreaterWMS-Doc-CN/docs/creating-your-site.md#building-your-site
   [our awesome sponsors]: ../insiders/index.md
 
 ## Objective

@@ -160,7 +160,7 @@ However, note that the syntaxes are slightly different:
 
 For further notes on icon usage, please consult the [icon reference].
 
-  [extend the theme]: ../customization.md#extending-the-theme
+  [extend the theme]: ../../../GreaterWMS-Doc-CN/docs/customization.md#extending-the-theme
   [custom_dir]: https://www.mkdocs.org/user-guide/configuration/#custom_dir
   [Bootstrap]: https://icons.getbootstrap.com/
   [icon reference]: ../reference/icons-emojis.md#using-icons
