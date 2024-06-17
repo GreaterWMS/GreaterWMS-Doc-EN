@@ -28,3 +28,8 @@ Image
 ~~~shell
 docs/assets/images/
 ~~~
+
+Page Tree
+~~~shell
+mkdocs.yml file , Change nav
+~~~
